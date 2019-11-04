@@ -1,0 +1,30 @@
+1407564301|www.nba.com
+1407478021|www.facebook.com
+1407478022|www.facebook.com
+1407481200|news.ycombinator.com
+1407478028|www.google.com
+1407564301|sports.yahoo.com
+1407564300|www.cnn.com
+1407564300|www.nba.com
+1407564300|www.nba.com
+1407564301|sports.yahoo.com
+1407478022|www.google.com
+1407648022|www.twitter.com
+
+# My test data
+# A blank line
+
+# Mixed case should get stored as lower case
+1407648022|www.TWITter.com
+# Wonky whitespace
+  1407648000    |  www.TWITter.com              
+        1407648000          |               www.TWITter.com                       
+# a date in 2015
+1446190336|www.marichiba.com
+# some dates in 2017
+1509348736|www.1111.com
+1493537536|www.1111.com
+1493537536|www.2222.com
+1493537536|www.2222.com
+1493537536|www.2222.com
+1493537536|www.2222.com
